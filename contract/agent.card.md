@@ -11,7 +11,7 @@
 | Data access | 서랍 12개 + 본사(비공개) · 공개는 05 웹 책 · 프로필 |
 | Known failure modes | 불량 상위: E-PLUG-PENDING 1 |
 | Eval summary | 자동 합격 0/1 · 사람 OK 0/0 판정 |
-| Last evaluated | 2026-10-29 22:37 KST (run 40882923726) |
+| Last evaluated | 2026-10-29 22:39 KST (run 40883345845) |
 | Budget | 이번 달 33/2000분 (1.7%) · 월말 예상 1.8% |
-| Rollback | t1-12-mirror 릴리스 mirror-20261029-223637 (최근 5개 보관) |
+| Rollback | t1-12-mirror 릴리스 mirror-20261029-223925 (최근 5개 보관) |
 | Incident contact | 계정 주인 · 텔레그램 보고 |
