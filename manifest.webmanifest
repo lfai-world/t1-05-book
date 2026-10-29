@@ -1,1 +1,1 @@
-{"name": "턴키 시험 — 시험 고객 A", "short_name": "턴키 시험 — 시험 고", "start_url": "./", "display": "standalone", "background_color": "#fbfaf6", "theme_color": "#0b1d16"}
+{"name": "My knowledge book", "short_name": "My knowledge", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#060d0a", "theme_color": "#060d0a", "icons": [{"src": "out/20261029-ade66936/cards/01.png", "sizes": "1080x1350", "type": "image/png"}]}
