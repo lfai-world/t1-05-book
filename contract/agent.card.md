@@ -7,11 +7,11 @@
 | Owner | 계정 주인 |
 | Autonomy | A2 — 사람 승인(관문 04) 후 공개 |
 | Models | 낭독 edge-tts ko-KR-InJoonNeural · 영상 HyperFrames · 카드 Chrome 헤드리스 (AI 열쇠 없음) |
-| Tools | 플러그: [{"name":"owner-voice","station":"voice","opts":{"model":"parksy_rvc","pitch":0},"version":1,"route":"switch","switch":"lfai-world/admin-switch"},{"name":"law-gate","station":"gate-check","opts":{"strict":false,"rules_version":1},"route":"switch","switch":"lfai-world/admin-switch"},{"name":"music-bgm","station":"bgm","opts":{"style":"warm","target_lufs":-20.0},"route":"switch","switch":"lfai-world/admin-switch"}] |
+| Tools | 플러그: [{"name":"owner-voice","station":"voice","opts":{"model":"parksy_rvc","pitch":0},"version":2,"route":"switch","switch":"lfai-world/admin-switch"},{"name":"law-gate","station":"gate-check","opts":{"strict":false,"rules_version":1},"route":"switch","switch":"lfai-world/admin-switch"},{"name":"music-bgm","station":"bgm","opts":{"style":"warm","target_lufs":-20.0},"route":"switch","switch":"lfai-world/admin-switch"}] |
 | Data access | 서랍 12개 + 본사(비공개) · 공개는 05 웹 책 · 프로필 |
 | Known failure modes | 불량 상위: 없음 |
 | Eval summary | 자동 합격 4/4 · 사람 OK 0/0 판정 |
-| Last evaluated | 2026-10-30 04:13 KST (run 40934168426) |
-| Budget | 이번 달 166/2000분 (8.3%) · 월말 예상 8.6% |
-| Rollback | t1-12-mirror 릴리스 mirror-20261030-041205 (최근 5개 보관) |
+| Last evaluated | 2026-10-30 05:48 KST (run 40943439850) |
+| Budget | 이번 달 271/2000분 (13.6%) · 월말 예상 14.0% |
+| Rollback | t1-12-mirror 릴리스 mirror-20261030-054813 (최근 5개 보관) |
 | Incident contact | 계정 주인 · 텔레그램 보고 |
