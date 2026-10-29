@@ -9,9 +9,9 @@
 | Models | 낭독 edge-tts ko-KR-InJoonNeural · 영상 HyperFrames · 카드 Chrome 헤드리스 (AI 열쇠 없음) |
 | Tools | 플러그: [{"name":"owner-voice","station":"voice","opts":{"model":"parksy_rvc","pitch":0},"version":1,"route":"switch","switch":"lfai-world/admin-switch"},{"name":"law-gate","station":"gate-check","opts":{"strict":false,"rules_version":1},"route":"switch","switch":"lfai-world/admin-switch"},{"name":"music-bgm","station":"bgm","opts":{"style":"warm","target_lufs":-20.0},"route":"switch","switch":"lfai-world/admin-switch"}] |
 | Data access | 서랍 12개 + 본사(비공개) · 공개는 05 웹 책 · 프로필 |
-| Known failure modes | 불량 상위: E-PLUG-PENDING 4 |
-| Eval summary | 자동 합격 0/4 · 사람 OK 0/0 판정 |
-| Last evaluated | 2026-10-30 00:48 KST (run 40901855756) |
-| Budget | 이번 달 77/2000분 (3.9%) · 월말 예상 4.0% |
-| Rollback | t1-12-mirror 릴리스 mirror-20261030-004825 (최근 5개 보관) |
+| Known failure modes | 불량 상위: 없음 |
+| Eval summary | 자동 합격 4/4 · 사람 OK 0/0 판정 |
+| Last evaluated | 2026-10-30 01:38 KST (run 40908593875) |
+| Budget | 이번 달 98/2000분 (4.9%) · 월말 예상 5.1% |
+| Rollback | t1-12-mirror 릴리스 mirror-20261030-013726 (최근 5개 보관) |
 | Incident contact | 계정 주인 · 텔레그램 보고 |
