@@ -3,7 +3,7 @@
  "note": "스케줄러 정책 — 회전을 시작해도 되는지 sched.py 가 판정한다(기본은 보수적).",
  "limits": {
   "per_day": 12,
-  "min_gap_min": 0,
+  "min_gap_min": 20,
   "quiet_hours": [],
   "jitter_min": 0
  },
