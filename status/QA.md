@@ -1,10 +1,10 @@
-# QA — 2026-10-31 12:53 KST
+# QA — 2026-10-31 13:24 KST
 
-**82 / 100** — measured by the runner itself; anything it cannot measure scores 0.
+**96 / 100** — measured by the runner itself; anything it cannot measure scores 0.
 
 | Area | Check | Points | Score | Evidence |
 |---|---|---|---|---|
-| Line | Every shipped lot passed all 12 stations | 12 | 0 | 4/5 complete · 0 waiting at the gate |
+| Line | Every shipped lot passed all 12 stations | 12 | 12 | 5/5 complete · 0 waiting at the gate |
 | Line | Wiring — every declared line connected | 10 | 10 | 14/14 |
 | Line | Yield ≥ 80 % | 8 | 8 | yield 100.0% |
 | Line | Signals and runner — last runs succeeded | 10 | 10 | all green |
@@ -12,7 +12,7 @@
 | Public | Public repositories hold zero keys | 8 | 8 | {'lfai-world': 0, 't1-05-book': 0, 'world-05-book': 0} |
 | Public | Dashboard is up and shows the live feed | 6 | 6 | HTTP 200 |
 | Public | Every chapter opens in three layers | 6 | 0 | 4/5 |
-| Public | Every chapter ships all outputs (cards · audio · video · lesson) | 10 | 0 | 4/5 |
+| Public | Every chapter ships all outputs (cards · audio · video · lesson) | 10 | 10 | 5/5 |
 | Public | Search index and RSS feed published | 6 | 6 | pagefind · feed.xml |
 | Public | Open-source gate scanner ran; nothing held is public | 6 | 6 | held [] |
 | Public | Showroom (WC-05 web book) lists every chapter | 8 | 8 | book index 5/5 chapters · public HTTP 200 |
@@ -22,4 +22,4 @@
 | Profile | Playbook linked from the profile | 5 | 5 | link |
 | Fab | Every chapter meets the output spec (contract/output.schema.json) — auto inspection | 12 | 12 | 5/5 · defects {} |
 | Fab | Contract pack installed (charter · FMEA · spec · defect codes · guardrails · permissions · agent card) | 6 | 6 | contract/ |
-| Fab | Cost ledger written and month projection under 70 % of the free minutes | 6 | 6 | 346 min · projected 17.3% |
+| Fab | Cost ledger written and month projection under 70 % of the free minutes | 6 | 6 | 351 min · projected 17.5% |
