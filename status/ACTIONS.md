@@ -2,8 +2,8 @@
 
 | Item | Value |
 |---|---|
-| Last run | 2026-11-11T01:12Z |
+| Last run | 2026-11-12T02:13Z |
 | Trigger | schedule → daily-check |
-| Jobs | line (cloud) → post (cloud) · run 42936885803 · **media = 기기 데몬**(hosted 0분) |
+| Jobs | line (cloud) → post (cloud) · run 43139540852 · **media = 기기 데몬**(hosted 0분) |
 | Signals | inbox push · gate approval · daily 06:00 KST check → private runner directly (public repos hold no keys) |
 | Mirror | git bundles of 12 stations — releases in t1-12-mirror (latest 5) |
